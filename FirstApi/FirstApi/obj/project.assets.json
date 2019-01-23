@@ -13130,11 +13130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denil\\source\\repos\\FirstApi\\FirstApi\\FirstApi.csproj",
+      "projectUniqueName": "C:\\Users\\Denil\\source\\repos\\API\\FirstApi\\FirstApi\\FirstApi.csproj",
       "projectName": "FirstApi",
-      "projectPath": "C:\\Users\\Denil\\source\\repos\\FirstApi\\FirstApi\\FirstApi.csproj",
+      "projectPath": "C:\\Users\\Denil\\source\\repos\\API\\FirstApi\\FirstApi\\FirstApi.csproj",
       "packagesPath": "C:\\Users\\Denil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denil\\source\\repos\\FirstApi\\FirstApi\\obj\\",
+      "outputPath": "C:\\Users\\Denil\\source\\repos\\API\\FirstApi\\FirstApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

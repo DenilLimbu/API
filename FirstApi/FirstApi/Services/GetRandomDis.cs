@@ -16,7 +16,7 @@ namespace FirstApi.Services
 
             using (var client = new HttpClient())
             {
-                var url = new Uri($"http://gateway.marvel.com/v1/public/characters?name={model.searchCriteria}&limit=10&ts=Jan222019918:22:00&apikey=8f47ffeea3ab770036a58f770f94d943&hash=a11c01ec99b93a70073d7d1d3598e24c");
+                string url = "";
 
                 var response = await client.GetAsync(url);
 
