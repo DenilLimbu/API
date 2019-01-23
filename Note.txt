@@ -1,0 +1,16 @@
+Steps to execute the Marvel API Program:
+
+1) Project is done using Asp.net core (MVC) using .net core framework.
+
+2) Open the Project from Visual Studio 2017 and run the program.
+
+3) In the url type: '../v1/disney' after the domain name
+
+               Example: http://localhost:64017/v1/disney
+
+
+4) You will see the WebPage with Search Textbox.
+
+5) Type your Marvel Character and options in the textbox.
+
+6) The web project is not in full complete.
