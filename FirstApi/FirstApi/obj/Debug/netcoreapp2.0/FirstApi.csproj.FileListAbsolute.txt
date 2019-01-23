@@ -1,0 +1,11 @@
+c:\users\denil\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.0\FirstApi.deps.json
+c:\users\denil\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.0\FirstApi.runtimeconfig.json
+c:\users\denil\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.0\FirstApi.runtimeconfig.dev.json
+c:\users\denil\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.0\FirstApi.dll
+c:\users\denil\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.0\FirstApi.csprojResolveAssemblyReference.cache
+c:\users\denil\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.0\FirstApi.csproj.CoreCompileInputs.cache
+c:\users\denil\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.0\FirstApi.AssemblyInfoInputs.cache
+c:\users\denil\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.0\FirstApi.AssemblyInfo.cs
+c:\users\denil\source\repos\FirstApi\FirstApi\bin\Debug\netcoreapp2.0\FirstApi.pdb
+c:\users\denil\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.0\FirstApi.dll
+c:\users\denil\source\repos\FirstApi\FirstApi\obj\Debug\netcoreapp2.0\FirstApi.pdb

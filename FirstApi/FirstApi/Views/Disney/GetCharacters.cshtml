@@ -1,0 +1,23 @@
+﻿@model FirstApi.Model.Search
+
+@{
+    ViewData["Title"] = "GetCharacters";
+}
+
+<h2>@ViewBag.Message</h2>
+
+@using (Html.BeginForm("Display", "Disney", FormMethod.Post))
+{
+    <div>
+        <label>Enter the marvel character:</label> @Html.TextBoxFor(model => model.searchCriteria)
+    </div>
+    <div style="height: 80px"></div>
+    <b>Filters</b>
+    <div>
+    <label>Limit:</label> @Html.TextBoxFor(model => model.limit)
+    </div>
+
+    <button type="submit">Search</button>
+
+ }
+
